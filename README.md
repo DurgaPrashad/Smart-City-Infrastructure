@@ -1,10 +1,13 @@
 # Sustainable Smart Infrastructure using AI & IoT
 
 A comprehensive AI-powered, IoT-integrated smart city infrastructure system that optimizes energy consumption, traffic flow, and waste management to create sustainable urban environments.
+![image](https://github.com/user-attachments/assets/f4b9b327-48f5-4db6-a106-6ca659440729)
+
 
 ## Project Overview
 
 This project aims to develop an integrated smart city platform that leverages artificial intelligence and Internet of Things technologies to create more sustainable, efficient, and livable urban environments. By collecting and analyzing data from various sensors deployed throughout the city, the system provides real-time insights and automated solutions for urban challenges.
+![image](https://github.com/user-attachments/assets/da9f02ea-58d0-4913-983c-4f40cd8f0359)
 
 ## Key Features
 
